@@ -34,6 +34,10 @@ Este projeto simula um farol de reação utilizando um Arduino, LEDs e um displa
 
 [Wokwi](https://wokwi.com/projects/400543340744012801)
 
+## Video do modelo no Youtube
+
+[Youtube](https://youtu.be/G17QF4eq-x0?si=deL9cWYa3fl0G4kO)
+
 ## Integrantes 
 
 ## Desenvolvedores
