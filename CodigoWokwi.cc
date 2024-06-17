@@ -11,7 +11,6 @@ const int pinoBotao = 5;
 #define D5 10
 #define D6 9
 #define D7 8
-#define LDR A0
 LiquidCrystal lcd(RS, E, D4, D5, D6, D7); // Cria uma instância do LCD
 
 unsigned long tempoInicial;
