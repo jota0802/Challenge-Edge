@@ -34,6 +34,14 @@ Este projeto simula um farol de reação utilizando um Arduino, LEDs e um displa
 
 [Wokwi](https://wokwi.com/projects/400543340744012801)
 
+## Integrantes 
+
+* [Yuri Pessoa](https://github.com/yurisilpess)
+* [João Franco](https://github.com/jota0802)
+* [Gustavo Moreno](https://github.com/gus7a2005)
+* [Igor Soos](https://github.com/igor-soos)
+* [Leonardo Barbosa](https://github.com/LeonBarbosa)
+
 ## Código
 
 ```cpp
