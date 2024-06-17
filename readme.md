@@ -36,11 +36,14 @@ Este projeto simula um farol de reação utilizando um Arduino, LEDs e um displa
 
 ## Integrantes 
 
-* [Yuri Pessoa](https://github.com/yurisilpess)
-* [João Franco](https://github.com/jota0802)
-* [Gustavo Moreno](https://github.com/gus7a2005)
-* [Igor Soos](https://github.com/igor-soos)
-* [Leonardo Barbosa](https://github.com/LeonBarbosa)
+## Desenvolvedores
+| Dev | Avatar | RM |
+| ------------- | ------ | -- |
+| ![](https://img.shields.io/badge/DEV-João-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/jota0802"><img src="https://avatars.githubusercontent.com/u/161319025?v=4" height="50" style="max-width: 100%;"></a> | RM556790 |
+| ![](https://img.shields.io/badge/DEV-Yuri-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/yurisilpess"><img src="https://avatars.githubusercontent.com/u/99032447?v=4" height="50" style="max-width: 100%;"></a> | RM557475 |
+| ![](https://img.shields.io/badge/DEV-Gustavo-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/gus7a2005"><img src="https://avatars.githubusercontent.com/u/161319479?v=4" height="50" style="max-width: 100%;"></a> | RM556289 |
+| ![](https://img.shields.io/badge/DEV-Igor-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/igor-soos"><img src="https://avatars.githubusercontent.com/u/164360059?v=4" height="50" style="max-width: 100%;"></a> | RM556010 |
+| ![](https://img.shields.io/badge/DEV-Leonardo-blue?style=for-the-badge&logo=appveyor) | <a href="https://github.com/LeonBarbosa"><img src="https://avatars.githubusercontent.com/u/162709227?v=4" height="50" style="max-width: 100%;"></a> | RM555986 |
 
 ## Código
 
