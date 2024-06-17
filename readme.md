@@ -30,6 +30,10 @@ Este projeto simula um farol de reação utilizando um Arduino, LEDs e um displa
   - D7: pino 2 do Arduino
   - VCC e GND do LCD conectados ao 5V e GND do Arduino
 
+## Modelo Wokwi
+
+[Wokwi](https://wokwi.com/projects/400543340744012801)
+
 ## Código
 
 ```cpp
